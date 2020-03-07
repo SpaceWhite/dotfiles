@@ -9,3 +9,4 @@ $BASEDIR/sec/httprobe.sh
 $BASEDIR/sec/wfuzz.sh
 $BASEDIR/sec/dirsearch.sh
 $BASEDIR/sec/gf.sh
+$BASEDIR/sec/sourcegraph.sh
