@@ -1,5 +1,4 @@
 #!/bin/bash
-sudo apt-get install vim -y
+setup vim
 
-BASEDIR=$(dirname "$0")
-cp $BASEDIR/../config/vimrc $HOME/.vimrc
+cp $BASEDIR/config/vimrc $HOME/.vimrc

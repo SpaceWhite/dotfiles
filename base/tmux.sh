@@ -1,5 +1,4 @@
 #!/bin/bash
-sudo apt-get install tmux -y
+setup tmux
 
-BASEDIR=$(dirname "$0")
-cp $BASEDIR/../config/tmux.conf $HOME/.tmux.conf
+cp $BASEDIR/config/tmux.conf $HOME/.tmux.conf

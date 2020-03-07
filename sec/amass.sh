@@ -1,0 +1,3 @@
+#!/bin/bash
+export GO111MODULE=on
+go get -v -u github.com/OWASP/Amass/v3/...
