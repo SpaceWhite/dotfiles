@@ -10,3 +10,4 @@ $BASEDIR/sec/wfuzz.sh
 $BASEDIR/sec/dirsearch.sh
 $BASEDIR/sec/gf.sh
 $BASEDIR/sec/sourcegraph.sh
+$BASEDIR/sec/ttyd.sh

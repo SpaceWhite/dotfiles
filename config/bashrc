@@ -116,4 +116,5 @@ if ! shopt -oq posix; then
   fi
 fi
 
+export TOOLDIR=$HOME/tools
 alias myip="curl ipinfo.io/ip"
