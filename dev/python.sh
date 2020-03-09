@@ -1,5 +1,6 @@
 #!/bin/bash
-setup python3 python3-pip
+setup python3 python3-pip libssl-dev zlib1g-dev libbz2-dev \
+    libreadline-dev libsqlite3-dev
 
 if ! [ -x "$(command -v pyenv)" ]; then
     curl https://pyenv.run | bash
