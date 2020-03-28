@@ -12,3 +12,4 @@ $BASEDIR/sec/gf.sh
 $BASEDIR/sec/sourcegraph.sh
 $BASEDIR/sec/ttyd.sh
 $BASEDIR/sec/aquatone.sh
+$BASEDIR/sec/sublist3r.sh
